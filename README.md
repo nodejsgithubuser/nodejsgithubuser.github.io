@@ -1,9 +1,7 @@
-# My Online Profile
-
 This webpage is for listing my personal projects and other information.
 
 ## Interests/Skills
-Web Development mainly using Node.js and .NET. I have experience using many of the popular front-end JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (Mongo, Postgres, etc.). I am knowledgeable of popular JavaScript build tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
+Web Development mainly using Node.js/Express and .NET(MVC, Razor). I have experience using many of the popular front-end JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (Mongo, Postgres, etc.). I am knowledgeable of popular JavaScript build tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
 
 Some other things I have studied recently include: Redux, PHP, Unity, Blazor.
 

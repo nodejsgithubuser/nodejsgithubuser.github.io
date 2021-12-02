@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+# My Online Profile
 
-You can use the [editor on GitHub](https://github.com/nodejsgithubuser/nodejsgithubuser.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This webpage is for listing my personal projects and other information.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Interests/Skills
+Web Development mainly using Node.js and .NET. I have experience using many of the popular front-end JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (Mongo, Postgres, etc.). I am knowledgeable of popular JavaScript build tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
 
-### Markdown
+Some other things I have studied recently include: Redux, PHP, Unity, Blazor.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Education
+I have completed coursework in the areas of networking, operating systems, programming languages, databases, algorithms, design patterns, data structures, distributed systems, linear algebra and computer graphics.
 
-```markdown
-Syntax highlighted code block
+## Projects
+[Website Link](https://whispering-coast-68461.herokuapp.com)  
+[Git Repo](https://github.com/nodejsgithubuser/videogamesite)  
+SPA with a UI designed using React components and using the React Router
+library for client-side URL routing. Includes Bootstrap UI elements and media
+queries for responsiveness.
 
-# Header 1
-## Header 2
-### Header 3
+[Website Link](https://fathomless-wave-52759.herokuapp.com)  
+[Git Repo](https://github.com/nodejsgithubuser/imagesharingsite)  
+Image hosting website implemented using Express multipart request
+middleware and the Sharp Node.js module for image processing. Uses
+MongoDB/Mongoose to store image URLs and comments and a REST API on
+the back-end for access to data. Uses AWS S3 for file storage.
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nodejsgithubuser/nodejsgithubuser.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Website Link](https://damp-hollows-32652.herokuapp.com)  
+[Git Repo](https://github.com/nodejsgithubuser/chatserver)  
+Real-time chat web application implemented using the Socket.IO library (which
+uses WebSockets for communication) on the server and client sides. Uses an
+embedded key-value database (LevelDB) on the backend for storage.

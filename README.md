@@ -1,7 +1,9 @@
+# My Online Profile
+
 This webpage is for listing my personal projects and other information.
 
 ## Interests/Skills
-Web Development mainly using Node.js/Express and .NET(MVC, Razor). I have experience using many of the popular front-end JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (Mongo, Postgres, etc.). I am knowledgeable of popular JavaScript build tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
+Web development mainly using Node.js/Express and .NET(MVC, Razor). I have experience using many of the popular front-end JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (Mongo, Postgres, etc.). I am knowledgeable of popular JavaScript build tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
 
 Some other things I have studied recently include: Redux, PHP, Unity, Blazor.
 
@@ -17,7 +19,7 @@ queries for responsiveness.
 
 [Website Link](https://fathomless-wave-52759.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/imagesharingsite)  
-Image hosting website implemented using Express multipart request
+Image hosting website implemented using Node/Express
 middleware and the Sharp Node.js module for image processing. Uses
 MongoDB/Mongoose to store image URLs and comments and a REST API on
 the back-end for access to data. Uses AWS S3 for file storage.

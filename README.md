@@ -20,7 +20,7 @@ queries for responsiveness.
 Image hosting website implemented using Node/Express
 middleware and the Sharp Node.js module for image processing. Uses
 MongoDB/Mongoose to store image URLs and comments and a REST API on
-the back-end for access to data. Uses AWS S3 for file storage.
+the back-end for access to data. Uses AWS S3/CloudFront for image storage and distribution.
 
 [Website Link](https://damp-hollows-32652.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/chatserver)  

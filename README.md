@@ -14,14 +14,14 @@ I have completed coursework in the areas of networking, operating systems, progr
 SPA with a UI designed using React components and using the React Router
 library for client-side URL routing. Includes Bootstrap UI elements and media
 queries for responsiveness.
-
+---
 >[Website Link](https://fathomless-wave-52759.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/imagesharingsite)  
 Image hosting website implemented using Node/Express
 middleware and the Sharp Node.js module for image processing. Uses
 MongoDB/Mongoose to store image URLs and comments and a REST API on
 the back-end for access to data. Uses AWS S3 and CloudFront for image storage and distribution.
-
+---
 >[Website Link](https://damp-hollows-32652.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/chatserver)  
 Real-time chat web application implemented using the Socket.IO library (which

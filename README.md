@@ -6,7 +6,7 @@ This webpage is for listing personal projects and other information.
 My primary focus is on web development using Node.js and ASP.NET Core. I have experience using many of the popular client-side JavaScript frameworks such as React and Angular. I am knowledgeable of relational and non-relational databases (MongoDB, Postgres, etc.) and ORM/ODM tools (EF Core, Mongoose, etc.). I am knowledgeable of popular JavaScript build/development tools such as Webpack, Babel, Gulp. I have experience constructing REST APIs and have studied some other API frameworks such as GraphQL.
 
 ### Education
-I have completed coursework in the areas of networking, operating systems, programming languages, databases, algorithms, design patterns, data structures, distributed systems, linear algebra and computer graphics.
+I have completed coursework in the areas of networking, cryptography, operating systems, programming languages, databases, algorithms, design patterns, data structures, distributed systems, linear algebra and computer graphics.
 
 ### Personal Projects
 >[Website Link](https://whispering-coast-68461.herokuapp.com)  

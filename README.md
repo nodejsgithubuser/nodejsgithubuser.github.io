@@ -9,6 +9,13 @@ My primary focus is on web development using Node.js and ASP.NET Core. I have ex
 I have completed coursework in the areas of networking, cryptography, operating systems, programming languages, databases, algorithms, design patterns, data structures, distributed systems, linear algebra and computer graphics.
 
 ### Personal Projects
+[Website Link](https://blogger20211231155421.azurewebsites.net)  
+[Git Repo](https://github.com/nodejsgithubuser/Blogger)  
+Razor Pages web application created using .NET Core. Uses EF core and a MySQL database on the
+back-end for storage.
+
+---
+
 [Website Link](https://whispering-coast-68461.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/videogamesite)  
 SPA with a UI designed using React components and using the React Router

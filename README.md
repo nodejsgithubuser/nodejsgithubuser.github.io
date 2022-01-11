@@ -11,7 +11,7 @@ I have completed coursework in the areas of networking, network security/cryptog
 ### Personal Projects
 [Website Link](https://blogger20211231155421.azurewebsites.net)  
 [Git Repo](https://github.com/nodejsgithubuser/Blogger)  
-Razor Pages web application created using ASP.NET Core. Uses EF core and a MySQL database on the
+Razor Pages web application created with ASP.NET Core. Uses EF core and a MySQL database on the
 back-end for storage.
 
 ---

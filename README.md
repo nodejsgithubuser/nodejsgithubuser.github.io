@@ -11,8 +11,8 @@ I have completed coursework in the areas of networking, network security/cryptog
 ### Personal Projects
 [Website Link](https://blogger20211231155421.azurewebsites.net)  
 [Git Repo](https://github.com/nodejsgithubuser/Blogger)  
-Razor Pages web application created with ASP.NET Core. Uses EF core and a MySQL database on the
-back-end for storage.
+Razor Pages web application created with ASP.NET Core. Uses EF core
+and a MySQL database on the back-end for storage.
 
 ---
 
@@ -26,15 +26,15 @@ queries for responsiveness.
 
 [Website Link](https://fathomless-wave-52759.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/imagesharingsite)  
-Image hosting website implemented using Node/Express
-middleware and the Sharp Node.js module for image processing. Uses
-MongoDB/Mongoose to store image URLs and comments and a REST API on
-the back-end for access to data. Uses AWS S3 and CloudFront for image storage and distribution.
+Image hosting website implemented using Node/Express middleware and 
+the Sharp Node.js module for image processing. Uses MongoDB/Mongoose 
+for storage and a REST API on the back-end for access to data. Uses 
+AWS S3 and CloudFront for image storage and distribution.
 
 ---
 
 [Website Link](https://damp-hollows-32652.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/chatserver)  
 Real-time chat web application implemented using the Socket.IO library (which
-uses WebSockets for communication) on the server and client sides. Uses an
-embedded key-value database (LevelDB) on the backend for storage.
+uses WebSockets for communication) on the server and client sides. Uses MongoDB
+for remote storage.

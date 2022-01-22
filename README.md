@@ -9,13 +9,6 @@ My primary focus is on web development using Node.js and ASP.NET Core. I have ex
 I have completed coursework in the areas of networking, network security/cryptography, operating systems, programming languages, databases, algorithms, design patterns, data structures, distributed systems, linear algebra and computer graphics.
 
 ### Personal Projects
-[Website Link](https://blogger20211231155421.azurewebsites.net)  
-[Git Repo](https://github.com/nodejsgithubuser/Blogger)  
-Razor Pages web application created with ASP.NET Core. Uses EF core
-and a MySQL database on the back-end for storage.
-
----
-
 [Website Link](https://whispering-coast-68461.herokuapp.com)  
 [Git Repo](https://github.com/nodejsgithubuser/videogamesite)  
 SPA with a UI designed using React components and using the React Router
@@ -35,3 +28,10 @@ AWS S3/CloudFront for image storage and distribution.
 [Git Repo](https://github.com/nodejsgithubuser/chatserver)  
 Real-time chat web application implemented using the Socket.IO libraries on the server and client.
 Designed as an SPA using Angular and using MongoDB for remote storage.
+
+---
+
+[Website Link](https://blogger20211231155421.azurewebsites.net)  
+[Git Repo](https://github.com/nodejsgithubuser/Blogger)  
+Razor Pages web application created with ASP.NET Core. Uses EF core
+and a MySQL database on the back-end for storage.

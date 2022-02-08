@@ -3,6 +3,10 @@
 
 @import "{{ site.theme }}";
 
-header {
+#project_title {
+  display: none;
+}
+
+#footer_wrap p {
   display: none;
 }
